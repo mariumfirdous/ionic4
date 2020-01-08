@@ -1,4 +1,4 @@
-## Ionic 4 HTTP GET Request Eample Using Random User API
+## Ionic 4 HTTP GET Request Example Using Random User API
 
 Get Full tutorial on how to make HTTP GET Request using the Random User API using the below link.
 
